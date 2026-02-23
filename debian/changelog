@@ -1,0 +1,43 @@
+ros-kilted-rosidl-core-generators (0.3.2-1bookworm) bookworm; urgency=high
+
+  * Added rosidl_generator_rs (Kilted) (#11 <https://github.com/ros2/rosidl_core/issues/11>)
+  * Contributors: Esteve Fernandez
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Sun, 22 Feb 2026 23:00:00 -0000
+
+ros-kilted-rosidl-core-generators (0.3.1-1bookworm) bookworm; urgency=high
+
+  * Add mechanism to disable workaround for dependency groups (#3 <https://github.com/ros2/rosidl_core/issues/3>)
+  * Contributors: Scott K Logan
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Sun, 16 Jun 2024 22:00:00 -0000
+
+ros-kilted-rosidl-core-generators (0.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Thu, 25 Apr 2024 22:00:00 -0000
+
+ros-kilted-rosidl-core-generators (0.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Thu, 27 Apr 2023 22:00:00 -0000
+
+ros-kilted-rosidl-core-generators (0.1.1-1bookworm) bookworm; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#2 <https://github.com/ros2/rosidl_core/issues/2>)
+  * Contributors: Audrow Nash
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Sun, 12 Feb 2023 23:00:00 -0000
+
+ros-kilted-rosidl-core-generators (0.1.0-1bookworm) bookworm; urgency=high
+
+  * Add generators and runtime configuration packages (#1 <https://github.com/ros2/rosidl_core/issues/1>)
+    Moved (and renamed) from rosidl_defaults.
+    Related PR: https://github.com/ros2/rosidl_defaults/pull/22
+  * Contributors: Jacob Perron
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Wed, 07 Sep 2022 22:00:00 -0000
+
+
