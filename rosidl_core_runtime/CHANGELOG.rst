@@ -2,12 +2,7 @@
 Changelog for package rosidl_core_runtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.1 (2025-10-07)
-------------------
-* fix cmake deprecation (`#10 <https://github.com/ros2/rosidl_core/issues/10>`_)
-* Contributors: mosfet80
-
-0.4.0 (2025-04-25)
+0.3.2 (2026-02-23)
 ------------------
 
 0.3.1 (2024-06-17)
