@@ -2,6 +2,11 @@
 Changelog for package rosidl_core_generators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.2 (2026-02-23)
+------------------
+* Added rosidl_generator_rs (Kilted) (`#11 <https://github.com/ros2/rosidl_core/issues/11>`_)
+* Contributors: Esteve Fernandez
+
 0.3.1 (2024-06-17)
 ------------------
 * Add mechanism to disable workaround for dependency groups (`#3 <https://github.com/ros2/rosidl_core/issues/3>`_)
