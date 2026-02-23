@@ -1,3 +1,28 @@
+## rosidl_core (jazzy) - 0.2.1-1
+
+The packages in the `rosidl_core` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy rosidl_core` on `Mon, 23 Feb 2026 15:28:49 -0000`
+
+These packages were released:
+- `rosidl_core_generators`
+- `rosidl_core_runtime`
+
+Version of package(s) in repository `rosidl_core`:
+
+- upstream repository: https://github.com/ros2/rosidl_core.git
+- release repository: https://github.com/ros2-gbp/rosidl_core-release.git
+- rosdistro version: `0.2.0-3`
+- old version: `0.2.0-3`
+- new version: `0.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_core (kilted) - 0.3.2-1
 
 The packages in the `rosidl_core` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted rosidl_core` on `Mon, 23 Feb 2026 15:21:15 -0000`
