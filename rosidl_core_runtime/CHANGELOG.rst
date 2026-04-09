@@ -2,7 +2,25 @@
 Changelog for package rosidl_core_runtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.1 (2026-02-23)
+0.4.2 (2026-04-09)
+------------------
+* Add rosidl_buffer_py as build_export_depend with explicit group resolution (`#14 <https://github.com/ros2/rosidl_core/issues/14>`_)
+* Contributors: CY Chen
+
+0.4.1 (2025-10-07)
+------------------
+* fix cmake deprecation (`#10 <https://github.com/ros2/rosidl_core/issues/10>`_)
+* Contributors: mosfet80
+
+0.4.0 (2025-04-25)
+------------------
+
+0.3.1 (2024-06-17)
+------------------
+* Add mechanism to disable workaround for dependency groups (`#3 <https://github.com/ros2/rosidl_core/issues/3>`_)
+* Contributors: Scott K Logan
+
+0.3.0 (2024-04-26)
 ------------------
 
 0.2.0 (2023-04-28)
