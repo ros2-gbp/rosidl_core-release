@@ -1,0 +1,12 @@
+Source: ros-lyrical-rosidl-core-generators
+Section: misc
+Priority: optional
+Maintainer: Shane Loretz <sloretz@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/rosidl_core_generators/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-rosidl-core-generators
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-ament-cmake-core, ros-lyrical-rosidl-cmake, ros-lyrical-rosidl-generator-c, ros-lyrical-rosidl-generator-cpp, ros-lyrical-rosidl-generator-py, ros-lyrical-rosidl-generator-rs, ros-lyrical-rosidl-typesupport-c, ros-lyrical-rosidl-typesupport-cpp, ros-lyrical-rosidl-typesupport-fastrtps-c, ros-lyrical-rosidl-typesupport-fastrtps-cpp, ros-lyrical-rosidl-typesupport-introspection-c, ros-lyrical-rosidl-typesupport-introspection-cpp, ros-lyrical-ros-workspace
+Description: A configuration package defining core ROS interface generators.
