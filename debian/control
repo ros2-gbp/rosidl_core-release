@@ -1,0 +1,12 @@
+Source: ros-lyrical-rosidl-core-runtime
+Section: misc
+Priority: optional
+Maintainer: Shane Loretz <sloretz@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/rosidl_core_runtime/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-rosidl-core-runtime
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-rosidl-buffer-py, ros-lyrical-rosidl-generator-py, ros-lyrical-rosidl-runtime-c, ros-lyrical-rosidl-runtime-cpp, ros-lyrical-rosidl-typesupport-c, ros-lyrical-rosidl-typesupport-cpp, ros-lyrical-rosidl-typesupport-fastrtps-c, ros-lyrical-rosidl-typesupport-fastrtps-cpp, ros-lyrical-rosidl-typesupport-introspection-c, ros-lyrical-rosidl-typesupport-introspection-cpp, ros-lyrical-ros-workspace
+Description: A configuration package defining runtime dependencies for core ROS interfaces.
